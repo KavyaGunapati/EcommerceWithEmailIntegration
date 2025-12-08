@@ -1,0 +1,594 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\ECommerceWithEmail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F48C6BC5-145D-49BC-B8F8-2185158B438B}|..\\Managers\\Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\managers\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48C6BC5-145D-49BC-B8F8-2185158B438B}|..\\Managers\\Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\managers\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC55E7CE-3D2F-4224-BBB7-ABB436A4DCDD}|..\\Models\\Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48C6BC5-145D-49BC-B8F8-2185158B438B}|..\\Managers\\Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB89154-B6D4-49E1-B667-F35992E10E7F}|..\\DataAccess\\DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\dataaccess\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEB19EB-A7D0-4D6F-BB17-DEECD6BB490A}|..\\Interfaces\\Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\interfaces\\imanagers\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEB19EB-A7D0-4D6F-BB17-DEECD6BB490A}|..\\Interfaces\\Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\interfaces\\imanagers\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48C6BC5-145D-49BC-B8F8-2185158B438B}|..\\Managers\\Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\managers\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC55E7CE-3D2F-4224-BBB7-ABB436A4DCDD}|..\\Models\\Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEB19EB-A7D0-4D6F-BB17-DEECD6BB490A}|..\\Interfaces\\Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\interfaces\\imanagers\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC55E7CE-3D2F-4224-BBB7-ABB436A4DCDD}|..\\Models\\Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48C6BC5-145D-49BC-B8F8-2185158B438B}|..\\Managers\\Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\managers\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48C6BC5-145D-49BC-B8F8-2185158B438B}|..\\Managers\\Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC55E7CE-3D2F-4224-BBB7-ABB436A4DCDD}|..\\Models\\Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\models\\constants\\errorconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEB19EB-A7D0-4D6F-BB17-DEECD6BB490A}|..\\Interfaces\\Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\interfaces\\imanagers\\ipaymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC55E7CE-3D2F-4224-BBB7-ABB436A4DCDD}|..\\Models\\Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\models\\dtos\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48C6BC5-145D-49BC-B8F8-2185158B438B}|..\\Managers\\Managers.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\managers\\jwttokenservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEB19EB-A7D0-4D6F-BB17-DEECD6BB490A}|..\\Interfaces\\Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\interfaces\\imanagers\\iauthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEB19EB-A7D0-4D6F-BB17-DEECD6BB490A}|..\\Interfaces\\Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\interfaces\\imanagers\\icategorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEB19EB-A7D0-4D6F-BB17-DEECD6BB490A}|..\\Interfaces\\Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\interfaces\\imanagers\\iordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC55E7CE-3D2F-4224-BBB7-ABB436A4DCDD}|..\\Models\\Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\models\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB89154-B6D4-49E1-B667-F35992E10E7F}|..\\DataAccess\\DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\dataaccess\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEB19EB-A7D0-4D6F-BB17-DEECD6BB490A}|..\\Interfaces\\Interfaces.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\interfaces\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC55E7CE-3D2F-4224-BBB7-ABB436A4DCDD}|..\\Models\\Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\models\\dtos\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC55E7CE-3D2F-4224-BBB7-ABB436A4DCDD}|..\\Models\\Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\models\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC55E7CE-3D2F-4224-BBB7-ABB436A4DCDD}|..\\Models\\Models.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\models\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB89154-B6D4-49E1-B667-F35992E10E7F}|..\\DataAccess\\DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\dataaccess\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB89154-B6D4-49E1-B667-F35992E10E7F}|..\\DataAccess\\DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\dataaccess\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED720CD-DD4C-42CB-A372-2251530FCBDD}|ECommerceWithEmail.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\ecommercewithemail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ED720CD-DD4C-42CB-A372-2251530FCBDD}|ECommerceWithEmail.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB89154-B6D4-49E1-B667-F35992E10E7F}|..\\DataAccess\\DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\dataaccess\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED720CD-DD4C-42CB-A372-2251530FCBDD}|ECommerceWithEmail.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\ecommercewithemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED720CD-DD4C-42CB-A372-2251530FCBDD}|ECommerceWithEmail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB89154-B6D4-49E1-B667-F35992E10E7F}|..\\DataAccess\\DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\dataaccess\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB89154-B6D4-49E1-B667-F35992E10E7F}|..\\DataAccess\\DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\dataaccess\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB89154-B6D4-49E1-B667-F35992E10E7F}|..\\DataAccess\\DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\dataaccess\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB89154-B6D4-49E1-B667-F35992E10E7F}|..\\DataAccess\\DataAccess.csproj|c:\\users\\gunapatikavya\\desktop\\dotnet\\authentication\\ecommercewithemails\\dataaccess\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\PaymentManager.cs",
+              "RelativeDocumentMoniker": "..\\Managers\\PaymentManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\PaymentManager.cs",
+              "RelativeToolTip": "..\\Managers\\PaymentManager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwD8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:00:41.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\IEmailService.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\IManagers\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\IEmailService.cs",
+              "RelativeToolTip": "..\\Interfaces\\IManagers\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:50:11.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\OrderManager.cs",
+              "RelativeDocumentMoniker": "..\\Managers\\OrderManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\OrderManager.cs",
+              "RelativeToolTip": "..\\Managers\\OrderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:42:48.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "..\\Managers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\UserManager.cs",
+              "RelativeToolTip": "..\\Managers\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:37:43.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "..\\Managers\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\CategoryManager.cs",
+              "RelativeToolTip": "..\\Managers\\CategoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:26:21.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\IProductManager.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\IManagers\\IProductManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\IProductManager.cs",
+              "RelativeToolTip": "..\\Interfaces\\IManagers\\IProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:13:26.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "..\\Models\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "..\\Models\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:59:31.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\DataAccess\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:11:25.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\IUserManager.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\IManagers\\IUserManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\IUserManager.cs",
+              "RelativeToolTip": "..\\Interfaces\\IManagers\\IUserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:17:47.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\AuthManager.cs",
+              "RelativeDocumentMoniker": "..\\Managers\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\AuthManager.cs",
+              "RelativeToolTip": "..\\Managers\\AuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:21:05.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "..\\Models\\DTOs\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "..\\Models\\DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:55:56.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "..\\Models\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "..\\Models\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:58:24.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\ProductManager.cs",
+              "RelativeDocumentMoniker": "..\\Managers\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\ProductManager.cs",
+              "RelativeToolTip": "..\\Managers\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:33:24.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPaymentManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\IPaymentManager.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\IManagers\\IPaymentManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\IPaymentManager.cs",
+              "RelativeToolTip": "..\\Interfaces\\IManagers\\IPaymentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:20:15.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorConstants.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\Constants\\ErrorConstants.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Constants\\ErrorConstants.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\Constants\\ErrorConstants.cs",
+              "RelativeToolTip": "..\\Models\\Constants\\ErrorConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:01:37.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\IAuthManager.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\IManagers\\IAuthManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\IAuthManager.cs",
+              "RelativeToolTip": "..\\Interfaces\\IManagers\\IAuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:17:05.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\Models\\DTOs\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\Models\\DTOs\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:53:36.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\JwtTokenService\\TokenService.cs",
+              "RelativeDocumentMoniker": "..\\Managers\\JwtTokenService\\TokenService.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Managers\\JwtTokenService\\TokenService.cs",
+              "RelativeToolTip": "..\\Managers\\JwtTokenService\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:41:52.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\ICategoryManager.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\IManagers\\ICategoryManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\ICategoryManager.cs",
+              "RelativeToolTip": "..\\Interfaces\\IManagers\\ICategoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:14:45.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\IOrderManager.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\IManagers\\IOrderManager.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IManagers\\IOrderManager.cs",
+              "RelativeToolTip": "..\\Interfaces\\IManagers\\IOrderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:14:14.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:06:39.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Interfaces\\IRepository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Interfaces\\IRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\Interfaces\\IRepository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:04:14.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "..\\Models\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "..\\Models\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:00:34.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\Result.cs",
+              "RelativeDocumentMoniker": "..\\Models\\DTOs\\Result.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\Result.cs",
+              "RelativeToolTip": "..\\Models\\DTOs\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:02:12.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "..\\Models\\DTOs\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\PaymentDto.cs",
+              "RelativeToolTip": "..\\Models\\DTOs\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:01:03.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "..\\Models\\DTOs\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\Models\\DTOs\\OrderItemDto.cs",
+              "RelativeToolTip": "..\\Models\\DTOs\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:00:07.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\ECommerceWithEmail\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\ECommerceWithEmail\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-08T05:38:06.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\Payment.cs",
+              "RelativeToolTip": "..\\DataAccess\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:22:05.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\DataAccess\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:10:56.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\ECommerceWithEmail\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\ECommerceWithEmail\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:34:04.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\Customer.cs",
+              "RelativeToolTip": "..\\DataAccess\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:13:50.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "..\\DataAccess\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:11:48.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\DataAccess\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:11:35.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\DataAccess\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:11:08.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\GunapatiKavya\\Desktop\\DotNet\\Authentication\\EcommerceWithEmails\\DataAccess\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "..\\DataAccess\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T05:10:44.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

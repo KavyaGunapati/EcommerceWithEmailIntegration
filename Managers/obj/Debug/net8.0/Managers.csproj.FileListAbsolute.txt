@@ -1,0 +1,14 @@
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\bin\Debug\net8.0\Managers.deps.json
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\bin\Debug\net8.0\Managers.runtimeconfig.json
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\bin\Debug\net8.0\Managers.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\bin\Debug\net8.0\Managers.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\obj\Debug\net8.0\Managers.csproj.AssemblyReference.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\obj\Debug\net8.0\Managers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\obj\Debug\net8.0\Managers.AssemblyInfoInputs.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\obj\Debug\net8.0\Managers.AssemblyInfo.cs
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\obj\Debug\net8.0\Managers.csproj.CoreCompileInputs.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\obj\Debug\net8.0\Managers.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\obj\Debug\net8.0\refint\Managers.dll
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\obj\Debug\net8.0\Managers.pdb
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\obj\Debug\net8.0\Managers.genruntimeconfig.cache
+C:\Users\GunapatiKavya\Desktop\DotNet\Authentication\EcommerceWithEmails\Managers\obj\Debug\net8.0\ref\Managers.dll
